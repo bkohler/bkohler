@@ -1,35 +1,23 @@
 # Hey there! I'm Benjamin Kohler 👋🏻
 
-Developer passionate about building software with Ruby, Python, and Shell scripting.
+Tech enthusiast passionate about building software with Ruby, Python, and Shell scripting.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-benjaminkohler-0A66C2?logo=linkedin)](https://linkedin.com/in/bkohler)
-[![Strava](https://img.shields.io/badge/Strava-benjaminkohler-FC4C02?logo=strava)](https://www.strava.com/athletes/bkohler)
+During the day, I'm navigating emails and PowerPoints, but I love diving into code to automate and innovate. Based in Zug, Switzerland, I run a lot in my free time to stay energized.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-benjaminkohler-0A66C2?logo=linkedin)](https://www.linkedin.com/in/benjaminkohler/)
+[![Strava](https://img.shields.io/badge/Strava-21746074-FC4C02?logo=strava)](https://www.strava.com/athletes/21746074)
 
 **Languages:** Ruby, Python, Shell<br>
 
 ---
 
-## Highlights
+## Contact
 
-<!-- Add your notable projects here -->
+Feel free to reach out at bkohler[at]codenomad[dot]com
 
 ---
 
 ## Projects
 
-<!-- Add your projects here -->
-
----
-
-## Writing
-
-<!-- Add your blog or writing links here -->
-
----
-
-<details>
-<summary><strong>More Projects</strong></summary>
-
-<!-- Add more projects here -->
-
-</details>
+- [Golden-Hour-Finder](https://github.com/bkohler/Golden-Hour-Finder) - A tool to find the golden hour
+- [fablab-visitor-logger](https://github.com/bkohler/fablab-visitor-logger) - Visitor logging system for fablab
